@@ -1,0 +1,14 @@
+.env
+/node_modules
+/dist
+/build
+/logs
+/temp
+/uploads
+/public
+/views
+/config
+/middleware
+/routes
+/services
+/utils
